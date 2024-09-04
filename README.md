@@ -1,4 +1,4 @@
-# Unity_Simple_Graph
+# Unity Simple Graph
 A simple graph made in Unity, plotting a function using cubes, following the Jasper Flick catlikecoding tutorials.  
 
 ![Alt text](https://github.com/Iris-CR/Unity_Simple_Graph/blob/main/images/Graph1.png "Graph at moment 1")
